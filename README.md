@@ -1,6 +1,7 @@
-## A noob programmer tying to do things that may or not work🔭
-I'm currently learning java and php🤔
-Fun fact: most of my projects work⚡
+## <span style="background-color: purple; color: white; padding: 4px 8px; border-radius: 6px; font-family: monospace;">&lt;noob&gt;</span> A noob programmer trying to do things that may or may not work 🔭
+I'm currently learning **Java** and **PHP** 🤔  
+Fun fact: most of my projects _actually_ work ⚡
+
 
 
 
