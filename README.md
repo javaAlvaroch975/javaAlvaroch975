@@ -1,4 +1,7 @@
-## A noob programmer tying to do things that may or not work
+## A noob programmer tying to do things that may or not work🔭
+I'm currently learning java and php🤔
+Fun fact: most of my projects work⚡
+
 
 
 <!--
